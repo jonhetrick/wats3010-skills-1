@@ -13,10 +13,6 @@
     height: auto;
 }
 
-.wrapped p {
-    padding-top: .2rem;
-}
-
 .wrapped:after {
     content: " ";
     visibility: hidden;
